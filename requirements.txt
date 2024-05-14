@@ -1,4 +1,5 @@
+streamlit==1.34.0
 pyaudio
-git add requirements.txt
-git commit -m "Add pyaudio to requirements"
-git push
+elevenlabs
+pygame
+python-dotenv
