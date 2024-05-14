@@ -1,0 +1,4 @@
+pyaudio
+git add requirements.txt
+git commit -m "Add pyaudio to requirements"
+git push
